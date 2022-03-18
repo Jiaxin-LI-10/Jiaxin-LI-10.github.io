@@ -35,8 +35,8 @@ posts = "/posts/:year/:month/:day/:slug/"
     name = "日志"
     url = "/cn/posts/"
     weight = 2
-[[menu.main]]
-    name = "兴趣"
+[[menu.cn]]
+    name = "论文"
     url = "cn/APAD/"
     weight = 3
 [[menu.cn]]
