@@ -38,8 +38,8 @@ Physics; Relativity Theory
 1932-1955, Institute for Advanced Study, Princeton
 
 ### Education
-1900, MSc in Physics, ETH Zürich 
-1900, PhD in Physics, ETH Zürich
+2020, BA in Economics, Beijing Normal University 
+2022, Expected MA in Economics, Renmin University
 
 ### Grants, honours & awards
 1921, Nobel Prize in Physics, Nobel Foundation
