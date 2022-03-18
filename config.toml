@@ -21,7 +21,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 2
 [[menu.en]]
     name = "APAD"
-    url = "/en/posts/"
+    url = "/en/APAD/"
     weight = 3
 [[menu.en]]
     name = "中文"
