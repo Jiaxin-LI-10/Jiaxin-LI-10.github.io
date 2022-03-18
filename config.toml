@@ -35,10 +35,14 @@ posts = "/posts/:year/:month/:day/:slug/"
     name = "日志"
     url = "/cn/posts/"
     weight = 2
+[[menu.main]]
+    name = "兴趣"
+    url = "cn/APAD/"
+    weight = 3
 [[menu.cn]]
     name = "English"
     url = "/"
-    weight = 3
+    weight = 4
 
 [params]
     description = "Peronal website of Your Name"
