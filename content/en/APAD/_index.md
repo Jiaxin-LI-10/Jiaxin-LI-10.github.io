@@ -1,5 +1,5 @@
 ---
-title: '2022-03 A Paper A Day'
+title: 'A Paper A Day'
 type : list-single
 date: ''
 author: Jiaxin Li
