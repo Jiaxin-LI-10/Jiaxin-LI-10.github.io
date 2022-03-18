@@ -7,11 +7,11 @@ author: Jiaxin Li
 
 # Journals
 
-AER:
-JPE:
-QJE:
-ECONOMETRICA:
-RES:
+AER: https://www.aeaweb.org/journals/aer/issues
+JPE: https://www.journals.uchicago.edu/loi/jpe
+QJE: https://academic.oup.com/qje/issue/
+ECONOMETRICA: https://www.econometricsociety.org/publications/econometrica/browse
+RES: https://academic.oup.com/restud/issue
 AEJ:
 JPubE:
 JUrbanE:
