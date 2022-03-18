@@ -19,11 +19,11 @@ RES: https://academic.oup.com/restud/issue
 
 AEJ:
 
-JPubE:
+JPubE: https://www.sciencedirect.com/journal/journal-of-public-economics/issues
 
-JUrbanE:
+JUrbanE: https://www.sciencedirect.com/journal/journal-of-urban-economics/issues
 
-JDE:
+JDevE: https://www.sciencedirect.com/journal/journal-of-development-economics/issues
 
 
 # Dates
